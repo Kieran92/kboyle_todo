@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">actionBar</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_todo">Todo</string>
+    <string name="action_archive">Archive</string>
+    <string name="action_stats">Stats</string>
+    <string name="action_email">Email</string>
+    <string name="edit_message">New Todo?</string>
+    <string name="button_add">Add</string>
+    <string name="string_empty" />
+    <string name="todo_add">Add</string>
+    <string name="todo_remove">Remove</string>
+    <string name="todo_email">Email</string>
+    <string name="todo_archive">Archive</string>
+    <string name="title_activity_archive">Archive</string>
+    <string name="title_activity_email">Email</string>
+    <string name="title_activity_stats">Stats</string>
+    <string name="email_header_todo">Todo Items</string>
+    <string name="email_header_archive">Archived Items</string>
+    <string name="title_activity_usage">Usage</string>
+    <string name="title_activity_usage_stats">UsageStats</string>
+    <string name="stats_archive">Archived</string>
+    <string name="stats_todo">Todo</string>
+    <string name="todo_incomplete">Todo items left: </string>
+    <string name="stats_total_todo">Total amount of Todo items:</string>
+    <string name="stats_todo_completed">Todo items completed:</string>
+    <string name="stats_archived_total">Total amount of archived Items:</string>
+    <string name="stats_archived_completed">Archived items completed:</string>
+    <string name="stats_archived_unfinished">Number of incomplete Archived items:</string>
+    <string name="string_unarchive">Unarchive</string>
+    <string name="button_emailSelection">Email Todo Items</string>
+    <string name="button_emailOther">Email Archived</string>
+    <string name="buttonEmailAll">Email </string>
+
+</resources>
